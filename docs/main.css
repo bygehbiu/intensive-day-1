@@ -1,0 +1,24 @@
+
+.header {
+    padding: 50px 100px;
+    text-align: center;
+    background: blue;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+.main {
+    background: green;
+    padding: 100px;
+    font-size: 38px;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+.footer {
+    background: rgb(114, 173, 221);
+    padding: 100px;
+    font-size: 38px;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
